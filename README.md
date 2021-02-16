@@ -30,7 +30,7 @@ Exploratory data analysis was performed to study data and analyze their distribu
 Unsupervised learning techniques like k-means and Gaussian Mixture Model where used to cluster data in a proper way. Topics where extracted to understand more deeply the strengths and weaknesses related to each product.
 
 # snippet of the results
-Nice and informative clusterization and topics where extracted from the data. Entire clusters dedicated to specific topics where identified when analyzing tweet, recognizing those elements that made people tweet the most. Here is reported an exmaple:
+Nice and informative clusterization and topics where extracted from the data. Entire clusters dedicated to specific topics where identified when analyzing tweet, recognizing those elements that made people tweet the most. Here is reported an example:
 ![Alt text](https://i.gyazo.com/70c5b1af31472d06047ef95cd9dac6a4.png)
 
 
