@@ -11,8 +11,7 @@ Through opinion mining  it's possible to extract as much information as possible
 
 # motivation and main steps
 Companies can study their specific target and their target response in terms of their business using opinions of the mass. Data mining can be applied to social media and e-commerce sites to extract as much raw data as its needed. In this project we propose the analysis of two different competitors brand: Sony and Micrsoft, basing such analysis on their main products which are their gaming console(Playstation and Xbox,respectively). Since users are very fervent on social media also about the so called "console war" phenomenon, these target are extremely thorough in terms of amount of data, data quality and data sentiment.
-The following steps where applied:
-1. SCRAPING : two different sources of data: amazon and twitter.   
+two different sources of data where scraped from the internet: amazon and twitter.   
             1) Amazon was thought to be a nice recipient of technical opinions on such products since people leave reviews specifically to criticize or to praise their purchase.   
             2) Twitter, on the other hand, is where is mostly "fought" the console war: people tends to do comparison and listen to other people's response through retweet.                    Furthermore, hashtags can lead the search through raw data in a smart way.  
             
