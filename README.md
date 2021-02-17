@@ -16,7 +16,7 @@ two different sources of data where scraped from the internet: amazon and twitte
             2) Twitter, on the other hand, is where is mostly "fought" the console war: people tends to do comparison and listen to other people's response through retweet.                    Furthermore, hashtags can lead the search through raw data in a smart way.  
             
 Data where collected from four different sources on Amazon, which are the four main consoles for the two brands: playstation 4, playstation 5, XboxOne, Xbox series.Reviews where simply scraped from the english pages of the products. 
-For twitter, two different time windows where chosen, which are basically placed around the release of the old console in 2017-2018, and the prerelease&release of the new one on 2020-2021. 
+For twitter, two different time windows where chosen, which are basically placed around the release of the old XboxOne console in 2017-2018, and the prerelease&release of the new ones on 2020-2021(Ps5 and XboxSeries). 
 
 # main goal
 We want to extract as much information as possible about how user perceive the company based on their gaming purchase habit. Moreover, we would like to recognize the criticalities of the business strategy adopted by the brand. Such information may be useful by the company to compensate weakenesses in their decision making.
